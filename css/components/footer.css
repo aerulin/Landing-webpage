@@ -1,0 +1,24 @@
+.footer {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  height: 150px;
+  background-color: #2c2b2b;
+}
+.links {
+  padding: 20px;
+}
+
+.footer a {
+  color: #1EDD88;
+  font-size: 40px;
+  padding: 10px;
+}
+.footer a:hover {
+  color: #1ab971;
+}
+
+.footer p {
+  color: lightgrey;
+  margin: 0;
+}

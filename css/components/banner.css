@@ -1,0 +1,15 @@
+@import url("components/button.css");
+
+.banner {
+  display: flex;
+  align-items: center;
+  height: 600px;
+  background-size: cover;
+  background-image: url("../../images/background.png");
+  color: white;
+  padding-left: 250px;
+}
+
+.banner p {
+  color: lightgrey;
+}

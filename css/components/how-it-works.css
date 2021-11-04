@@ -1,0 +1,20 @@
+@import url("components/card.css");
+
+.how-it-works {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  padding: 25px 250px;
+}
+
+.how-it-works > h2 {
+  width: 100%;
+  text-align: center;
+  padding: 10px;
+
+}
+
+.how-it-works p {
+  width: 100%;
+  color: rgb(130, 130, 130);
+}
